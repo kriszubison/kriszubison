@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kriszubison
+- 👀 I’m interested in frontend developing.
+- 🌱 I’m currently learning how to code.
+- 💞️ I’m looking to collaborate on working with teams of developers.
+- 📫 How to reach me Email; ekumechristian@gmail.com
